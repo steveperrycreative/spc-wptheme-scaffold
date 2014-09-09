@@ -2,8 +2,8 @@
 add_action('wp_enqueue_scripts', 'theme_enqueue_scripts');
 function theme_enqueue_scripts(){
 
-	wp_register_script('modernizr', get_bloginfo('template_url') . '/js/modernizr.js');
-	wp_enqueue_script('modernizr');
+	wp_register_script('js', get_bloginfo('template_url') . '/js/all.min.js');
+	wp_enqueue_script('js');
 
 	wp_enqueue_style('global', get_bloginfo('template_url') . '/css/global.css');
 }
