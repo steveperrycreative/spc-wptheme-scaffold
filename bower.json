@@ -1,0 +1,16 @@
+{
+  "name": "themename",
+  "version": "0.0.1",
+  "authors": [
+    "spc <ideas@steveperrycreative.com>"
+  ],
+  "description": "Custom WP scaffold",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

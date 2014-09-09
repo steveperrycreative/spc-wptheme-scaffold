@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+js/vendor/
+.sass-cache
+.DS_Store
+uploads/
+wp-config.php

@@ -1,0 +1,1 @@
+Based on the YeoPress Default Theme but tailored to my unique requirements and workflow. Full readme update coming soon but the main change is that I'm now using Gulp instead of Grunt.
